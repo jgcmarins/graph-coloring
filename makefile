@@ -14,7 +14,7 @@ CC=g++
 F=-Wall -std=c++11
 
 # binary file
-BIN=./build/graph_coloring
+BIN=./build/graph_coloring.app
 
 # main
 MAIN=src/main/main.cc
