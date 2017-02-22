@@ -1,10 +1,23 @@
 # graph-coloring
-Graph coloring project that uses backtracking algorithm
+Graph coloring software that uses backtracking algorithm.
 
-This is a college project. For more information, read the .pdf file.
+This is a college project. For more information, read pdf file.
 
-## to compile and build: make
+## how to use
+### to compile
+```
+make
+```
 
-## to run with brasil.in: make runbrasil
+### to run with brasil.in
+```
+make runbrasil
+```
 
-## to run with usa.in: make runusa
+### to run with usa.in
+```
+make runusa
+```
+
+## License
+[GPL-2.0](/LICENSE)
